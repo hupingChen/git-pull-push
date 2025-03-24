@@ -6,5 +6,8 @@ public class Demo {
         System.out.println("远端交互");
         System.out.println("远端临时修改");
         System.out.println("远端分支临时修改");
+        System.out.println("本地测试分支分支临时修改");
+        System.out.println("---------------");
+        System.out.println("testBranch");
     }
 }
