@@ -13,5 +13,6 @@ public class Demo {
         System.out.println("=========================================");
         System.out.println("在合并");
         String str = "字符串变量";
+        System.out.println("字符串变量被修改了");
     }
 }
