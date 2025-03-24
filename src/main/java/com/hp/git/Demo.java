@@ -12,7 +12,7 @@ public class Demo {
         System.out.println("testBranch分支修改");
         System.out.println("=========================================");
         System.out.println("在合并");
-        String str = "字符串变量";
+        String env = "字符串变量被修改了";
         System.out.println("字符串变量被修改了");
     }
 }
