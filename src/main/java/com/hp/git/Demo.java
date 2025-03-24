@@ -9,5 +9,7 @@ public class Demo {
         System.out.println("testBranch分支修改");
         System.out.println("=========================================");
         System.out.println("在合并");
+        int i = 0;
+        System.out.println("i = " + i);
     }
 }
